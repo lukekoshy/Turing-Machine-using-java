@@ -41,9 +41,6 @@ Here's an example of how to use the Turing Machine:
 ## Contributions
 Contributions to the Turing Machine project are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ## Acknowledgments
 - Alan Turing for his groundbreaking work on theoretical computation.
 - The open-source community for providing valuable resources and inspiration.
